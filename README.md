@@ -1,2 +1,1 @@
-# miko_web
-This is my first personal web-site)
+This is my first personal site)
