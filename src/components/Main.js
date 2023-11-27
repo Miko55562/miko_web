@@ -1,8 +1,13 @@
 import React from 'react';
+import Titles from './AboutMe'
+import Contact from './Contact'
+
 
 const Main = () => {
   return (
     <div style={mainStyle}>
+        <Titles />
+        <Contact />
     </div>
   );
 };

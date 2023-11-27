@@ -13,7 +13,8 @@ const Contact = () => {
 };
 
 const contactStyle = {
-  padding: '2rem',
+  textAlign: 'left',
+  padding: '60vh',
 };
 
 export default Contact;

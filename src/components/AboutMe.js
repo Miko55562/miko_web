@@ -14,6 +14,8 @@ const AboutMe = () => {
 };
 
 const aboutStyle = {
+  textAlign: 'left',
+
   padding: '2rem',
 };
 
