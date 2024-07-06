@@ -21,4 +21,4 @@ RUN pip install -r requirements.txt --no-build-isolation --no-warn-script-locati
 RUN useradd --create-home --shell /bin/bash server
 USER server
 
-ENTRYPOINT ["python", "manage.py", "runserver", "0:8000"]
+# ENTRYPOINT ["python", "manage.py", "runserver", "0:8000"]
