@@ -1,2 +1,1 @@
-# miko_web
-This is my first personal web-site)
+# Докерезация Django с Nginx и PostgreSQL
